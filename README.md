@@ -1,4 +1,4 @@
-# desafio-modulo01-principal-node-ignite
+# desafio-conceitos-node-ignite
 Desafio principal do Módulo 01 da trilha de Node.js no Ignite da Rocketseat.
 
 # 💻 Sobre o desafio
